@@ -1,90 +1,32 @@
 Hi there 👋
-🙋‍♂️ Who am I?
-I'm Varun, a Test Automation Engineer specializing in diverse testing methodologies like functional, regression, exploratory, and globalization/localization testing.
 
-🛠️ What do I work with?
-UI Testing: Selenium
-API Testing: Postman
-Frameworks: JUnit, TestNG, Cucumber
-DevOps: Git, GitHub, Jenkins
-Programming Languages: Java
+## 🙋‍♂️ Who am I?
 
-🧑‍💻 What do I do?
-Analyze requirements, create test plans, design test cases, perform feature testing, and maintain test suites.
-Design and maintain frameworks, automate test cases with open-source libraries like Selenium, RestAssured, etc., reducing manual effort.
-Execute automated test cases through CI/CD pipelines like Jenkins, ensuring functional integrity across SDLC iterations.
-Reduce test execution time via code refactoring, optimization, and parallel execution, leveraging tools like TestNG, Docker, Virtual machines.
-Contribute to enhancing application quality by promptly reporting bugs through regression analysis & exploratory testing.
-Validate global readiness of the application through localization/globalization testing.
+I'm Varun, a Test Automation Engineer with experience in  Functional, Regression, Exploratory, and Globalization/Localization Testing. 
+I focus on building scalable automation frameworks, optimizing execution time, and ensuring product quality across SDLC.
 
-📫 How to Reach Me
-🔗 LinkedIn: https://www.linkedin.com/in/varun-selvam-562bb1215
+## 🛠️ What do I work with?
 
-📧 Email: varun992k@gmail.com
+🔹 UI Testing: Selenium  
+🔹 API Testing: Postman  
+🔹 Frameworks: JUnit, TestNG, Cucumber  
+🔹 DevOps: Git, GitHub, Jenkins  
+🔹 Programming Languages: Java  
 
-# Hi 👋, I'm Varun S
+## 🧑‍💻 What I Do
 
-🚀 Automation Test Engineer | Selenium | Java | CI/CD | Agile  
+✔️ Analyze requirements, prepare detailed test plans, design test cases, execute test scripts, and maintain comprehensive test suites.
 
----
+✔️ Design, develop, and maintain automation frameworks using Java, Selenium, and TestNG to reduce manual effort and improve efficiency.
 
-## 👨‍💻 About Me
+✔️ Optimize test execution time through code refactoring, performance improvements, and parallel execution using TestNG.
 
-- 🔹 Automation Test Engineer with 3.6 years of experience in Web Application Testing
-- 🔹 Strong experience in Selenium WebDriver with Java
-- 🔹 Experience working in Life Sciences & Healthcare Domain
-- 🔹 Hands-on experience with Agile Methodology
-- 🔹 Experienced in CI/CD pipelines using Jenkins
-- 🔹 Experience in TestNG, Maven, Git, and Selenium Grid (Docker)
+✔️ Enhance application quality by performing end-to-end testing, identifying, reporting, and tracking defects to ensure overall system stability.
 
----
-
-## 🛠️ Tech Stack
-
-**Automation Tools:**  
-Selenium WebDriver, Selenium Grid, TestNG, Cucumber
-
-**Programming:**  
-Java
-
-**Build & CI/CD:**  
-Maven, Jenkins
-
-**Version Control:**  
-Git, GitHub
-
-**Database:**  
-SQL, BigQuery, MS SQL Server
-
----
-
-## 🔄 Automation Framework Experience
-
-- Page Object Model (POM) Framework
-- Data-Driven Framework
-- Hybrid Framework
-- Parallel Execution using TestNG
-- CI/CD Integration with Jenkins
-- Docker-based Selenium Grid execution
-
----
-
-## 📈 What I Focus On
-
-✔️ Writing reusable & maintainable automation scripts  
-✔️ Reducing regression execution time  
-✔️ Improving test coverage  
-✔️ CI/CD pipeline integration  
-✔️ Clean and scalable framework design  
-
----
+✔️ Validate data accuracy by writing SQL queries to verify ingestion from cloud storage buckets into BigQuery.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
-
----
-
-⭐ Always learning. Always improving. Always automating.
-
+ 🔗 [LinkedIn](https://www.linkedin.com/in/varun-selvam-562bb1215)
+ 
+ 📧 Email: varun992k@gmail.com
